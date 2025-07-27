@@ -1,2 +1,3 @@
 # my-first-project
-this is my first repository
+This is my first Git repository.
+Author - Amritesh Gupta
